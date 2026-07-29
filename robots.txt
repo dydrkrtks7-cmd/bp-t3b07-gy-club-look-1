@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://deungchon-room-note.nrb-apgujeong-guide.xyz/sitemap.xml
